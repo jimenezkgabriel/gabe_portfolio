@@ -1,0 +1,7 @@
+.profile-border {
+    border-radius: 50%;
+    width: 10rem;
+    height: 10rem;
+    overflow: hidden;
+    margin-bottom: 20px;
+}
